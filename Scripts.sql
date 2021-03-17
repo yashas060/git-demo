@@ -6,5 +6,5 @@ SELECT Cust FROM Customers;
 SELECT ID FROM Customers;
 --4th Update -- 2FA
 SELECT NAME FROM Customers;
---5th Update 
-SELECT PINCODE FROM Customers;
+--5th Update --in Github site
+SELECT Address FROM Customers;
