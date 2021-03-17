@@ -4,3 +4,5 @@ SELECT * FROM Customers;
 SELECT Cust FROM Customers;
 --3rd update - updating in github portal
 SELECT ID FROM Customers;
+--4th Update -- 2FA
+SELECT NAME FROM Customers;
