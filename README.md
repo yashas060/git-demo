@@ -7,3 +7,5 @@ This is first file in the repo
 This is the 1st edit
 
 This is the 2nd edit
+
+This is the 3rd edit
